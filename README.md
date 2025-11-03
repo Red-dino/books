@@ -1,3 +1,5 @@
+I use this tool to create the bound layout from my pdfs: https://momijizukamori.github.io/bookbinder-js/
+
 # Western Deserts (Jan 8, 2025)
 
 A7 booklet about some deserts (and semi-arid) landscapes I've loved visiting.
