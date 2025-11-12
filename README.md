@@ -8,6 +8,10 @@ A7 booklet about some deserts (and semi-arid) landscapes I've loved visiting.
 
 A6 booklet about Hokusai's waterfall prints. 
 
-# Golf Tracker (Nov 13, 2025)
+# Golf Tracker (Nov 3, 2025)
 
 Layout for an A6 pocket booklet that helps you track club usage and stroke count on the golf course.
+
+# Ephemeros (Nov 11, 2025)
+
+11x8.5 booklet featuring photos from a April 2025 Haleakala hike. I printed it on lightweight calligraphy paper.
