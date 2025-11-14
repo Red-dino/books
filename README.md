@@ -14,4 +14,4 @@ Layout for an A6 pocket booklet that helps you track club usage and stroke count
 
 # Ephemeros (Nov 11, 2025)
 
-11x8.5 booklet featuring photos from a April 2025 Haleakala hike. I printed it on lightweight calligraphy paper.
+6.5"x8.5" booklet featuring photos from a April 2025 Haleakala hike. I printed it on lightweight calligraphy paper.
